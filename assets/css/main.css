@@ -3382,13 +3382,12 @@ input, select, textarea {
 		}
 
 /* Banner */
-
 	#banner {
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/Block.jpg");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
